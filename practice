@@ -1,0 +1,13 @@
+# Indent line 6 so that you don’t get an IndentationError when you run the code.
+
+for game in board_games:
+  print(game)
+  
+# Write a loop that prints each sport in sport_games.
+
+for sport in sport_games:
+  print(sport)
+  
+
+  
+  
