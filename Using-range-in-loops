@@ -1,0 +1,6 @@
+# Use the range function in a for loop to print out promise 5 times.
+
+for i in range(5):
+  print(promise)
+  
+  
